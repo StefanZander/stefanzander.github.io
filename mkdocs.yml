@@ -1,0 +1,43 @@
+site_name: "Prof. Dr. Stefan Zander"
+
+plugins:
+    - search
+
+theme:
+  name: 'material'
+  language: 'de'
+
+  palette:
+    primary: 'teal'
+    accent: 'deep orange'
+
+  feature:
+    tabs: false
+
+  font:
+    text: 'Barlow Semi Condensed'
+    code: 'Roboto mono'
+
+extra_css:
+  - 'css/extra.css'
+
+markdown_extensions:
+  - admonition
+  - smarty:
+      smart_angled_quotes: true
+  - extra
+  - codehilite:
+      linenums: true
+      guess_lang: true
+  - toc:
+      permalink: false
+  - meta
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
