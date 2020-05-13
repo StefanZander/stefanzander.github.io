@@ -1,13 +1,29 @@
 # Übersicht der Lehrmaterialen
 
-Willkommen auf den Projektseiten von Prof. Dr. Stefan Zander. 
+Willkommen auf den ergänzenden Lehrveranstaltungsseiten von Prof. Dr. Stefan Zander. 
 
-Auf den folgenden Seiten findet sich ergänzendes Lehrmaterial zu meinen Lehrveranstaltungen sowie allgemeine Informationen.
+Auf den folgenden Seiten findet sich ergänzendes Lehrmaterial zu meinen Lehrveranstaltungen sowie allgemeine Informationen zur Organisation und Ablauf von Praxisphase und Bachelor-/ Masterarbeiten.
 
 ## Lehrveranstaltungen
 
 Die folgenden Lehrveranstaltungen halte ich regelmäßigen Abständen am Fachbereich Informatik der Hochschule Darmstadt.
 
+---
+
+### Nutzer-zentrierte Softwareentwicklung (NZSE)
+
+Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. Design Thinking und zeigt, wie diese in gängige Softwareentwicklungsprozesse integriert werden können. Es werden qualitative Methoden des User Research, Prototyping, Modellbildung, Visual und Interaction Design sowie empirische und heuristische Usability-Evaluierungsmothoden behandelt. Diese Methoden werden im Rahmen eines semesterbegleitenden Praxisprojekts erprobt und angewendet.
+
+* Die Übungsaufgaben sind online verfügbar:  
+    <https://projects.fbi.h-da.de/~s.zander/nzse/praktikum/html/>
+* Moodle-Kurs zur LVA:  
+    <https://lernen.h-da.de/course/view.php?id=6802>
+* Ergänzende Lehrmaterialien zu Android und AndroidStudio:   
+    <https://projects.fbi.h-da.de/~s.zander/nzse/vorlesung/android/html/>
+* Außerdem gibt es eine Reihe von Lehrvideos von mir zu ausgewählten Themen auf YouTube:
+    <https://www.youtube.com/channel/UCmvuGsp-maCJ_HwAgKxBpbA/>
+
+---
 
 ### Entwicklung Web-basierter Anwendungen (EWA)
 * Die Lehrveranstaltungsunterlagen sowie ergänzende Lehrmaterialien befinden sich im Moodle-Kurs der LVA:  
@@ -17,20 +33,7 @@ Die folgenden Lehrveranstaltungen halte ich regelmäßigen Abständen am Fachber
 * Zusätzliche biete ich noch ein Skriptum zu ausgewählten JavaScript-Themen an (_befindet sich aktuell im Aufbau_):  
     <https://projects.fbi.h-da.de/~s.zander/ewa2.0/vorlesung/javascript/html/>
 
-
-
-### Nutzer-zentrierte Softwareentwicklung (NZSE)
-
-* Die Übungsaufgaben sind online verfügbar:  
-    <https://projects.fbi.h-da.de/~s.zander/nzse/praktikum/html/>
-* Moodle-Kurs zur LVA:  
-    <https://lernen.h-da.de/course/view.php?id=6802>
-* Ergänzende Lehrmaterialien zu Android und AndroidStudio:   
-    <https://projects.fbi.h-da.de/~s.zander/nzse/vorlesung/android/html/>
-* Außerdem gibt es eine Reihe von Lehrvideos zu ausgewählten Themen auf YouTube:
-    <https://www.youtube.com/channel/UCmvuGsp-maCJ_HwAgKxBpbA/>
-
-
+---
 
 ### Semantisches Wissensmanagement im Unternehmen: Konzepte, Technologien, Anwendung
 
@@ -41,7 +44,7 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 * Weitere Unterlagen finden sich im Moodle-Kurs zur LVA:  
     <https://lernen.h-da.de/course/view.php?id=11623>
 
-
+---
 
 ### Scientific Writing for Computer Science (SWCS)
 * Das Online-Skriptum zur Lehrveranstaltung findet sich hier:  
@@ -49,6 +52,7 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 * Ergänzende Lehrmaterialien mit vielen Beispielen und Zusatzliteratur wird über den Moodle-Kurs der Lehrveranstaltung angeboten:  
     <https://lernen.h-da.de/course/view.php?id=6893>
 
+---
 
 ### Wissenschaftliches Arbeiten in der Informatik II (WAI2)
 
@@ -57,7 +61,7 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 * Ergänzende Lehrmaterialien mit vielen Beispielen und Zusatzliteratur wird über den Moodle-Kurs der Lehrveranstaltung angeboten:  
     <https://lernen.h-da.de/course/view.php?id=8565>
 
-
+---
 
 ### Praxisphase und Bachelorarbeit
 * Allgemeine Infos zur Praxisphase und der Bachelorarbeit finden sich online:  
@@ -77,4 +81,10 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 * Nachstehender Link beinhaltet einige Tipps zur erfolgreichen Verfassung einer Abschlussarbeit:  
     <https://projects.fbi.h-da.de/~s.zander/wai/html/lernen_lernen/>  
     _Hinweis: Der Inhalt wird fortlaufend ergänzt_
+
+---
+
+### Foundations of Semantic Knowledge Graphs 
+
+Diese englische Masterlehrveranstaltung befindet sich aktuell im Aufbau und wird vorauss. erstmals im SoSe2021 angeboten.
 
