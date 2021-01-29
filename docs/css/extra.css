@@ -1,3 +1,7 @@
+:root, body {
+    -webkit-font-smoothing: auto !important;
+}
+
 h1 {
     font-size: 5rem;
 }
@@ -6,3 +10,6 @@ h2 {
     font-size: 3rem;
     font-weight: 500;
 }
+
+
+

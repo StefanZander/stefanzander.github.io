@@ -63,28 +63,43 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 ---
 
-### Praxisphase und Bachelorarbeit
-* Allgemeine Infos zur Praxisphase und der Bachelorarbeit finden sich online:  
+### Praxismodul
+
+* Allgemeine Informationen zur **Praxisphase** und der **Bachelorarbeit** finden sich online:  
     <https://projects.fbi.h-da.de/~s.zander/wai/html>
 
 * Vertiefende Informationen zur Praxisphase habe ich unter nachstehendem Link zusammengeschrieben. 
-    Dort finden sich neben allgemeinen Informationen zur Anmeldung und Durchführung auch ein *FAQ-Bereich* in dem ich Studierenden-Fragen, welche mich über die verschiedenen Semester erreicht haben sammle und beantworte.  
+    Dort finden sich neben allgemeinen Informationen zur Anmeldung und Durchführung auch ein **FAQ-Bereich** in dem ich Studierenden-Fragen, welche mich über die verschiedenen Semester erreicht haben, sammle und beantworte.  
     <https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/allg_informationen/>  
     <https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/bericht/>  
     <https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/questions_answers/>
 
-* Jeder Anmeldung einer Abschlussarbeit (Bachelor- / Masterarbeit) muss die Verfassung eines Exposés vorangehen.  
+---
+
+
+### Bachelor- und Masterarbeiten
+
+* [Themenliste für Abschlussarbeiten](themen.md)
+    
+
+* Jeder Anmeldung einer Abschlussarbeit (Bachelor- / Masterarbeit) muss die Verfassung eines **Exposés** vorangehen.  
     Die Vorgaben hierfür finden sich auf folgender Seite:  
     <http://projects.fbi.h-da.de/~s.zander/wai/html/expose/index.html>  
     *Hinweis: Der dargelegten Struktur zur Verfassung eines Exposés ist verbindlich zu folgen.*
+
+* Informationen zur Durchführung der Bachelorarbeit sowie des Kolloquiums finden sich hier:  
+    <https://projects.fbi.h-da.de/~s.zander/wai/html/bachelorarbeit/q_and_a/>
 
 * Nachstehender Link beinhaltet einige Tipps zur erfolgreichen Verfassung einer Abschlussarbeit:  
     <https://projects.fbi.h-da.de/~s.zander/wai/html/lernen_lernen/>  
     _Hinweis: Der Inhalt wird fortlaufend ergänzt_
 
+
 ---
+
+
 
 ### Foundations of Semantic Knowledge Graphs 
 
-Diese englische Masterlehrveranstaltung befindet sich aktuell im Aufbau und wird vorauss. erstmals im SoSe2021 angeboten.
+Diese englische Masterlehrveranstaltung befindet sich aktuell im Aufbau und wird voraussichtlich erstmals im SoSe2021 angeboten.
 
