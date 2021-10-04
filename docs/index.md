@@ -63,6 +63,15 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 ---
 
+### Projekt Systementwicklung / Projekt Multimedia
+
+Im WiSe 2021/2022 finden die o.g. LVAs in Kooperation mit dem Unternehmen [BCC Group International GmbH](https://bccgi.eu/) statt. Inhaltlich geht es um die _Visualisierung von Echtzeitdatenströmen mittels moderner Web- und Virtualisierungstechnologien_ (u.a. Web Assembly und Kubernetes). Das Vorhaben lässt sich in mehrere Teilprojekte (u.a. Technologie-Rechereche, GUI-Entwurf, Prototyping etc.) aufsplitten und beinhaltet mehrere Meilensteine.
+
+Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projektpräsentation](data/pse_project_overview.pdf).
+
+
+---
+
 ### Praxismodul
 
 * Allgemeine Informationen zur **Praxisphase** und der **Bachelorarbeit** finden sich online:  
@@ -70,9 +79,10 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 * Vertiefende Informationen zur Praxisphase habe ich unter nachstehendem Link zusammengeschrieben. 
     Dort finden sich neben allgemeinen Informationen zur Anmeldung und Durchführung auch ein **FAQ-Bereich** in dem ich Studierenden-Fragen, welche mich über die verschiedenen Semester erreicht haben, sammle und beantworte.  
-    <https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/allg_informationen/>  
-    <https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/bericht/>  
-    <https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/questions_answers/>
+    - [Allgemeine Informationen zur Praxisphase](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/allg_informationen/)  
+    - [Der Start im Unternehmen](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/start_im_unternehmen/)  
+    - [Informationen zum Praktikumsbericht](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/bericht/)  
+    - [Q&A zur Praxisphase](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/questions_answers/)
 
 ---
 
@@ -101,5 +111,5 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 ### Foundations of Semantic Knowledge Graphs 
 
-Diese englische Masterlehrveranstaltung befindet sich aktuell im Aufbau und wird voraussichtlich erstmals im SoSe2021 angeboten.
+Diese englische Masterlehrveranstaltung befindet sich aktuell im Aufbau und wird voraussichtlich erstmals im **SoSe2022** angeboten.
 
