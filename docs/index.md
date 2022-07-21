@@ -1,12 +1,12 @@
 # Übersicht der Lehrmaterialen
 
-Willkommen auf den ergänzenden Lehrveranstaltungsseiten von Prof. Dr. Stefan Zander. 
+Willkommen auf der **Lehrveranstaltungsübersichtsseite** von Prof. Dr. Stefan Linus Zander. 
 
-Auf den folgenden Seiten findet sich ergänzendes Lehrmaterial zu meinen Lehrveranstaltungen sowie allgemeine Informationen zur Organisation und Ablauf von Praxisphase und Bachelor-/ Masterarbeiten.
+Auf den folgenden Seiten findet sich **ergänzendes Lehrmaterial** zu meinen Lehrveranstaltungen sowie allgemeine Informationen zu Organisation und Ablauf von Praxisphase und Bachelor-/ Masterarbeiten.
 
 ## Lehrveranstaltungen
 
-Die folgenden Lehrveranstaltungen halte ich regelmäßigen Abständen am Fachbereich Informatik der Hochschule Darmstadt.
+Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fachbereich Informatik der Hochschule Darmstadt.
 
 ---
 
@@ -26,6 +26,8 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
 ---
 
 ### Entwicklung Web-basierter Anwendungen (EWA)
+* Die wöchentliche Themenübersicht zur Vorbereitung der VO-Einheiten (wichtig!):  
+    <https://projects.fbi.h-da.de/~s.zander/ewa2.0/vorlesung/themen/html/>
 * Die Lehrveranstaltungsunterlagen sowie ergänzende Lehrmaterialien befinden sich im Moodle-Kurs der LVA:  
     <https://lernen.h-da.de/course/view.php?id=6940>
 * Die Praktikumsaufgaben sind eine Gemeinschaftsarbeit von Ralf Hahn, Ute Trapp und mir; sie sind online verfügbar:  
