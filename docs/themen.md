@@ -24,6 +24,13 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen Studie
 - Semantische Wissensgraphen im Unternehmen: Chancen, Potentiale und Einsatzmöglichkeiten
 
 
+## Chatbots und NLP
+
+- Eine Übersicht aktueller Entwicklungsansätze
+- Evaluierung von Einsatzmöglichkeiten von Chatbots im Informatikstudium
+- Eine Analyse zur NUtzbarkeit von Wissensgraphen in Chatbots
+
+
 ## Augmented Reality und Linked Open Data
 
 - Untersuchung der Nutzbarkeit von offenen verlinkten Datenquellen für mobile Augmented Reality Applikationen
