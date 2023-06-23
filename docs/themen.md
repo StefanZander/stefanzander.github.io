@@ -18,7 +18,6 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen Studie
 - Usability im Kontext erklärbarer Künstlicher Intelligenz
 - Was ist SHACL und wo lässt es sich sinnvoll einsetzen ?
 - Ein Überblick über Local Closed World Reasoning Ansätze in Wissensgraphen
-- Eine Gegenüberstellung von REST und GraphQL
 - JSON LD im Kontext des Web of Data
 - Web of Data – Eine Aufarbeitung des State-of-the-Art
 - Semantische Wissensgraphen im Unternehmen: Chancen, Potentiale und Einsatzmöglichkeiten
@@ -28,13 +27,15 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen Studie
 
 - Eine Übersicht aktueller Entwicklungsansätze
 - Evaluierung von Einsatzmöglichkeiten von Chatbots im Informatikstudium
-- Eine Analyse zur NUtzbarkeit von Wissensgraphen in Chatbots
+- Eine Analyse zur Nutzbarkeit von Wissensgraphen in Chatbots
+- Nutzenpotentiale von Wissensgraphen in NLP-basierten Sprachmodellen
 
 
 ## Augmented Reality und Linked Open Data
 
 - Untersuchung der Nutzbarkeit von offenen verlinkten Datenquellen für mobile Augmented Reality Applikationen
 - Eine Untersuchung, welche verlinkten offenen Datenquellen sich für die Nutzung in mobilen Anwendungsszenarien eignen
+- Eine Analyse aktueller AR-Beschreibungssprachen für das Web
 
 
 ## Mobile Computing
