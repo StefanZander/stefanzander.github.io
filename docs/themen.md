@@ -1,7 +1,7 @@
 # Themen für Abschlussarbeiten
 
 Auf dieser Seite finden sich einige Themenvorschläge für Abschlussarbeiten. 
-Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen Studierendem und mir und wird im __Exposé__ fixiert.
+Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den Studierenden und mir und wird im __Exposé__ fixiert.
 
 ## Digitale Souveränität
 
@@ -41,9 +41,9 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen Studie
 ## Mobile Computing
 
 - Eine Übersicht aktueller Verfahren und Modellierungsansätze zur Beschreibung von Nutzeraktivitäten in mobilen Szenarien (Collaborative Plans, Activity Theory, etc.)
-- Welche Rückschlüsse lassen sich durch die Auswertung von Sensordaten auf der Verhalten mobiler Nutzer ziehen? –Ein Übersicht aktueller Forschungsarbeiten
-- Eine Übersicht aktueller Studien zu den Informationsbedürfnissen mobiler NutzerInnen
-- Untersuchung aktueller Ansätze zur automatische Annotation von Handyphotos mittels Auswertung mobiler Sensordaten und Linked Open Data
+- Welche Rückschlüsse lassen sich durch die Auswertung von Sensordaten auf der Verhalten mobiler Nutzer ziehen? – Eine Übersicht aktueller Forschungsarbeiten
+- Eine Analyse aktueller Studien über die Informationsbedürfnisse mobiler NutzerInnen
+- Untersuchung aktueller Ansätze zur automatischen Annotation von Handyphotos mittels Auswertung mobiler Sensordaten und Linked Open Data
 - Aufarbeitung der theoretischen Grundlagen für die semantische Annotation von Multimediainhalten mittels Linked Open Data und mobilen Sensordaten
 - Untersuchung aktueller Ansätze zur semantischen Beschreibung und Verarbeitung von Kontextinformationen in mobilen Systemen
 - Welche Rückschlüsse lassen sich durch die Auswertung von Sensordaten auf das Verhalten mobiler Nutzer ziehen? Ein Übersicht aktueller Forschungsarbeiten
