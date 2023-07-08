@@ -4,7 +4,7 @@ Auf dieser Seite finden sich einige Themenvorschläge für Abschlussarbeiten.
 Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den Studierenden und mir und wird im __Exposé__ fixiert.
 
 
-## Web-Entwicklung / HCI
+## Web-Entwicklung und HCI
 - Eine Analyse der Nutzenpotentiale von htmx
 - Ein Vergleich von htmx vs. aktuelle Java-Script Frameworks (React, Vue, Express, SvelteKit)
 - Web Components: State-of-the-Art und Einsatzmöglichkeiten
@@ -40,6 +40,7 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den St
 - Evaluierung von Einsatzmöglichkeiten von Chatbots im Informatikstudium
 - Eine Analyse zur Nutzbarkeit von Wissensgraphen in Chatbots
 - Nutzenpotentiale von Wissensgraphen in NLP-basierten Sprachmodellen
+- Über die Nutzung von Web-basierten Informationen zum Training von KI-Chatbots 
 
 
 ## Augmented Reality und Linked Open Data
