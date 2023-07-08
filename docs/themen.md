@@ -3,6 +3,16 @@
 Auf dieser Seite finden sich einige Themenvorschläge für Abschlussarbeiten. 
 Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den Studierenden und mir und wird im __Exposé__ fixiert.
 
+
+## Web-Entwicklung / HCI
+- Eine Analyse der Nutzenpotentiale von htmx
+- Ein Vergleich von htmx vs. aktuelle Java-Script Frameworks (React, Vue, Express, SvelteKit)
+- Web Components: State-of-the-Art und Einsatzmöglichkeiten
+- Eine Untersuchung zur Nutzbarkeit von Web Components in modernen Web-Applikationen
+- Web Components versus React / Svelte / Vue / etc.
+- Eine Übersicht aktueller Ansätze zur AR-Szenengenierung im Browser
+
+
 ## Digitale Souveränität
 
 - Digitale Souveränität im Informatikstudium: Wie kann die hochschulweite Informatikausbildung zur digitalen Souveränität beitragen  
@@ -21,6 +31,7 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den St
 - JSON LD im Kontext des Web of Data
 - Web of Data – Eine Aufarbeitung des State-of-the-Art
 - Semantische Wissensgraphen im Unternehmen: Chancen, Potentiale und Einsatzmöglichkeiten
+- Eine Übersicht zu den Nutzungsmöglichkeiten von (Semantischen) Wissensgraphen im maschinellen Lernen 
 
 
 ## Chatbots und NLP
