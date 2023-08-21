@@ -10,7 +10,7 @@ Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fach
 
 ---
 
-### Nutzer-zentrierte Softwareentwicklung (NZSE)
+### Nutzer-zentrierte Softwareentwicklung (NZSE) / Human-Computer-Interaction (HCI)
 
 Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. Design Thinking und zeigt, wie diese in gängige Softwareentwicklungsprozesse integriert werden können. Es werden qualitative Methoden des User Research, Prototyping, Modellbildung, Visual und Interaction Design sowie empirische und heuristische Usability-Evaluierungsmothoden behandelt. Diese Methoden werden im Rahmen eines semesterbegleitenden Praxisprojekts erprobt und angewendet.
 
@@ -32,7 +32,7 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
     <https://lernen.h-da.de/course/view.php?id=6940>
 * Die Praktikumsaufgaben sind eine Gemeinschaftsarbeit von Ralf Hahn, Ute Trapp und mir; sie sind online verfügbar:  
     <https://ewa_2.h-da.io/ewa_2/EWA_Praktikum/>
-* Zusätzliche biete ich noch ein Skriptum zu ausgewählten JavaScript-Themen an (_befindet sich aktuell im Aufbau_):  
+* Zusätzliche biete ich noch ein Skriptum zu fortschrittlichen JavaScript-Themen an (_befindet sich aktuell im Aufbau_):  
     <https://projects.fbi.h-da.de/~s.zander/ewa2.0/vorlesung/javascript/html/>
 
 ---
@@ -60,16 +60,24 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 * Das Online-Skriptum zur Lehrveranstaltung findet sich hier:  
     <https://projects.fbi.h-da.de/~s.zander/swcs/html/>
-* Ergänzende Lehrmaterialien mit vielen Beispielen und Zusatzliteratur wird über den Moodle-Kurs der Lehrveranstaltung angeboten:  
+* Ergänzende Lehrmaterialien mit vielen Beispielen und Zusatzliteratur ist im Moodle-Kurs der Lehrveranstaltung enthalten:  
     <https://lernen.h-da.de/course/view.php?id=8565>
 
 ---
 
 ### Projekt Systementwicklung / Projekt Multimedia
 
-Im WiSe 2021/2022 finden die o.g. LVAs in Kooperation mit dem Unternehmen [BCC Group International GmbH](https://bccgi.eu/) statt. Inhaltlich geht es um die _Visualisierung von Echtzeitdatenströmen mittels moderner Web- und Virtualisierungstechnologien_ (u.a. Web Assembly und Kubernetes). Das Vorhaben lässt sich in mehrere Teilprojekte (u.a. Technologie-Rechereche, GUI-Entwurf, Prototyping etc.) aufsplitten und beinhaltet mehrere Meilensteine.
+In regelmäßigen Abständen biete ich dieses Modul in Kooperation mit Unternehmen aus der Wirtschaft und Industrie an. 
 
-Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projektpräsentation](data/pse_project_overview.pdf).
+Die aktuelle Themenstellung umfasst die Weiterentwicklung einer mobilen Flutter-App (we3ve) samt Node.js-Backend (Express).
+Die App entstand in Kooperation mit der [Klinikon GmbH](https://www.klinikon.com/) und soll der breiten Masse den Zugang und die Nutzung von E-Mobilitätsangeboten ermöglichen und so die Verkehrswende weiter vorantreiben und unterstützen.
+
+Nähere Informationen erfahren Sie gerne per [Email](https://fbi.h-da.de/~s.zander) oder im Rahmen meiner Sprechstunde (immer Montags, 17:00 - 19:00 Uhr in meinem BBB-Büro).
+
+
+<!-- Im WiSe 2021/2022 finden die o.g. LVAs in Kooperation mit dem Unternehmen [BCC Group International GmbH](https://bccgi.eu/) statt. Inhaltlich geht es um die _Visualisierung von Echtzeitdatenströmen mittels moderner Web- und Virtualisierungstechnologien_ (u.a. Web Assembly und Kubernetes). Das Vorhaben lässt sich in mehrere Teilprojekte (u.a. Technologie-Rechereche, GUI-Entwurf, Prototyping etc.) aufsplitten und beinhaltet mehrere Meilensteine.
+
+Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projektpräsentation](data/pse_project_overview.pdf). -->
 
 
 ---
@@ -80,7 +88,11 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
     <https://projects.fbi.h-da.de/~s.zander/wai/html>
 
 * Vertiefende Informationen zur Praxisphase habe ich unter nachstehendem Link zusammengeschrieben. 
-    Dort finden sich neben allgemeinen Informationen zur Anmeldung und Durchführung auch ein **FAQ-Bereich** in dem ich Studierenden-Fragen, welche mich über die verschiedenen Semester erreicht haben, sammle und beantworte.  
+    Dort finden sich neben allgemeinen Informationen zur Anmeldung und Durchführung auch ein **FAQ-Bereich** in dem ich Studierenden-Fragen, welche mich über die verschiedenen Semester erreicht haben, sammle und beantworte.
+
+    !!! warning "Wichtige Informationen zur Absolvierung des Praxismoduls"
+        Sofern Sie das Praxismodul bei mir absolvieren bzw. ich Sie während der Praxisphase betreue – **bitte lesen Sie sich die nachfolgenden Seiten genau durch**. Sie finden dort wichtige Informationen zu den Voraussetzungen, zur Anmeldung, das Procedere allgemein, einzureichende (Zwischen-)Ergebnisse, sowie weitere wichtige Informationen zum Kolloquium und zur Abnahme. 
+
     - [Allgemeine Informationen zur Praxisphase](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/allg_informationen/)  
     - [Der Start im Unternehmen](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/start_im_unternehmen/)  
     - [Informationen zum Praktikumsbericht](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/bericht/)  
@@ -113,5 +125,8 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
 
 ### Foundations of Semantic Knowledge Graphs 
 
-Diese englische Masterlehrveranstaltung befindet sich aktuell im Aufbau und wird voraussichtlich erstmals im **SoSe2022** angeboten.
+Diese englische Masterlehrveranstaltung habe ich erstmalig im **SoSe2023** angeboten.
+
+* Die Kursunterlagen finden sich im Moodle-Kurs zur Veranstaltung:  
+    <https://lernen.h-da.de/course/view.php?id=20070>
 

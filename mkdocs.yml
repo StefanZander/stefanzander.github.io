@@ -14,9 +14,9 @@ theme:
   feature:
     tabs: false
 
-  font:
-    text: 'Roboto Condensed'
-    code: 'Roboto mono'
+  font: 
+    text: Roboto Condensed
+    code: Roboto Mono
 
 extra_css:
   - 'css/extra.css'
