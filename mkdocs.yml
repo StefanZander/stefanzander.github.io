@@ -1,43 +1,94 @@
 site_name: "Prof. Dr. Stefan Zander"
 
-plugins:
-    - search
+extra_css:
+  - stylesheets/extra.css
 
 theme:
-  name: 'material'
-  language: 'de'
-
+  name: material
   palette:
-    primary: 'teal'
-    accent: 'deep orange'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: red
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
-  feature:
-    tabs: false
 
-  font: 
+  font:
     text: Roboto Condensed
     code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
+  language: de
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+    - content.action.edit
 
-extra_css:
-  - 'css/extra.css'
+extra:
+  social:
+    - icon: fontawesome/solid/person-biking 
+      link: https://fbi.h-da.de/~s.zander
+      name: personal page of Prof. Dr. Stefan Zander at h_da
+
+copyright: Copyright &copy; 2017 - 2023 – Prof. Dr. Stefan Zander
+
+repo_url: https://github.com/StefanZander/lecture_notes/tree/master/hci/praktikum/html
+repo_name: /hci/praktikum
+
+edit_uri: docs/
+
+plugins:
+  - search:
+      lang: de
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: custom
 
 markdown_extensions:
+  - abbr
   - admonition
-  - smarty:
-      smart_angled_quotes: true
-  - extra
-  - codehilite:
-      linenums: true
-      guess_lang: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - def_list
+  - footnotes
   - toc:
-      permalink: false
-  - meta
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.inlinehilite
+      permalink: true
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
   - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
   - pymdownx.smartsymbols
+  - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.tilde
+  

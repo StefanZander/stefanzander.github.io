@@ -88,7 +88,7 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
 ### Praxismodul
 
 * Allgemeine Informationen zur **Praxisphase** und der **Bachelorarbeit** finden sich online:  
-    <https://projects.fbi.h-da.de/~s.zander/wai/html>
+    <https://zander-praxismodul.netlify.app/>
 
 * Vertiefende Informationen zur Praxisphase habe ich unter nachstehendem Link zusammengeschrieben. 
     Dort finden sich neben allgemeinen Informationen zur Anmeldung und Durchführung auch ein **FAQ-Bereich** in dem ich Studierenden-Fragen, welche mich über die verschiedenen Semester erreicht haben, sammle und beantworte.
@@ -96,10 +96,10 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
     !!! warning "Wichtige Informationen zur Absolvierung des Praxismoduls"
         Sofern Sie das Praxismodul bei mir absolvieren bzw. ich Sie während der Praxisphase betreue – **bitte lesen Sie sich die nachfolgenden Seiten genau durch**. Sie finden dort wichtige Informationen zu den Voraussetzungen, zur Anmeldung, das Procedere allgemein, einzureichende (Zwischen-)Ergebnisse, sowie weitere wichtige Informationen zum Kolloquium und zur Abnahme. 
 
-    - [Allgemeine Informationen zur Praxisphase](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/allg_informationen/)  
-    - [Der Start im Unternehmen](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/start_im_unternehmen/)  
-    - [Informationen zum Praktikumsbericht](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/bericht/)  
-    - [Q&A zur Praxisphase](https://projects.fbi.h-da.de/~s.zander/wai/html/praxisphase/questions_answers/)
+    - [Allgemeine Informationen zur Praxisphase](https://zander-praxismodul.netlify.app/allg_informationen/)  
+    - [Der Start im Unternehmen](https://zander-praxismodul.netlify.app/start_im_unternehmen/)  
+    - [Informationen zum Praktikumsbericht](https://zander-praxismodul.netlify.app/bericht/)  
+    - [Q&A zur Praxisphase](https://zander-praxismodul.netlify.app/q_a/)
 
 ---
 
@@ -111,8 +111,11 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
 
 * Jeder Anmeldung einer Abschlussarbeit (Bachelor- / Masterarbeit) muss die Verfassung eines **Exposés** vorangehen.  
     Die Vorgaben hierfür finden sich auf folgender Seite:  
-    <http://projects.fbi.h-da.de/~s.zander/wai/html/expose/index.html>  
-    *Hinweis: Der dargelegten Struktur zur Verfassung eines Exposés ist verbindlich zu folgen.*
+    <https://zander-praxismodul.netlify.app/expose/>  
+    
+    !!! warning "Inhaltliche Struktur des Exposés"
+        Bitte folgen Sie bei der Verfassung Ihres Exposés der dargelegten Struktur. Diese ist verbindlich und notwendig für eine erfolgreiche Anmeldung.
+
 
 * Informationen zur Durchführung der Bachelorarbeit sowie des Kolloquiums finden sich hier:  
     <https://projects.fbi.h-da.de/~s.zander/wai/html/bachelorarbeit/q_and_a/>
