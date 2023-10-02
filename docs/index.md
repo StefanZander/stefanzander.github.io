@@ -53,7 +53,7 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 ### Scientific Writing for Computer Science (SWCS)
 * Das Online-Skriptum zur Lehrveranstaltung findet sich hier:  
-    <https://projects.fbi.h-da.de/~s.zander/swcs/html/>
+    <https://zander-swcs.netlify.app/>
 * Ergänzende Lehrmaterialien mit vielen Beispielen und Zusatzliteratur wird über den Moodle-Kurs der Lehrveranstaltung angeboten:  
     <https://lernen.h-da.de/course/view.php?id=6893>
 
@@ -62,7 +62,7 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 ### Wissenschaftliches Arbeiten in der Informatik II (WAI2)
 
 * Das Online-Skriptum zur Lehrveranstaltung findet sich hier:  
-    <https://projects.fbi.h-da.de/~s.zander/swcs/html/>
+    <https://zander-swcs.netlify.app/>
 * Ergänzende Lehrmaterialien mit vielen Beispielen und Zusatzliteratur ist im Moodle-Kurs der Lehrveranstaltung enthalten:  
     <https://lernen.h-da.de/course/view.php?id=8565>
 
