@@ -131,7 +131,7 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
 
 ### Foundations of Semantic Knowledge Graphs 
 
-Diese englische Masterlehrveranstaltung habe ich erstmalig im **SoSe2023** angeboten.
+Diese englische Masterlehrveranstaltung biete ich seit dem **SoSe2023** jährlich an.
 
 * Die Kursunterlagen finden sich im Moodle-Kurs zur Veranstaltung:  
     <https://lernen.h-da.de/course/view.php?id=20070>
