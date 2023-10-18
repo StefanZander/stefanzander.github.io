@@ -30,7 +30,7 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
 
 ### Entwicklung Web-basierter Anwendungen (EWA)
 * Die wöchentliche Themenübersicht zur Vorbereitung der VO-Einheiten (wichtig!):  
-    <https://projects.fbi.h-da.de/~s.zander/ewa2.0/vorlesung/themen/html/>
+    <https://zander-ewa20-semesterplan.netlify.app/>
 * Die Lehrveranstaltungsunterlagen sowie ergänzende Lehrmaterialien befinden sich im Moodle-Kurs der LVA:  
     <https://lernen.h-da.de/course/view.php?id=6940>
 * Die Praktikumsaufgaben sind eine Gemeinschaftsarbeit von Ralf Hahn, Ute Trapp und mir; sie sind online verfügbar:  
@@ -45,7 +45,7 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
 Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 * Die Lehrveranstaltungsunterlagen hierzu sind als Online-Skript verfügbar:  
-    <https://projects.fbi.h-da.de/~s.zander/smw/html>
+    <https://zander-smw.netlify.app/>
 * Weitere Unterlagen finden sich im Moodle-Kurs zur LVA:  
     <https://lernen.h-da.de/course/view.php?id=11623>
 
