@@ -10,7 +10,13 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den St
 - Web Components: State-of-the-Art und Einsatzmöglichkeiten
 - Eine Untersuchung zur Nutzbarkeit von Web Components in modernen Web-Applikationen
 - Web Components versus React / Svelte / Vue / etc.
+- State-of-the-Art in der Komponenten-basierten Websitenentwicklung mit einer Fallstudie in der akademischen Bildung (Komponenten-basierter Pizza-Service in EWA)
 - Eine Übersicht aktueller Ansätze zur AR-Szenengenierung im Browser
+- Eine Untersuchung der Einsatzpotentiale von Augemented Reality in der Bildung / Informatikausbildung (Studium etc)
+- Eine Untersuchung der Zusammenhänge zwischen Website-Accessibility und Cognitive Load für nicht-beeinträchtigte Website-NutzerInnen
+- Eine Untersuchung des Zusammenhangs zwischen dem Curb-Cut-Effect und der Website-Usability
+- Führt der Curb-Cut-Effect zu einer besseren Website-Usability?
+- 
 
 
 ## Digitale Souveränität
@@ -28,7 +34,7 @@ Die konkrete Ausgestaltung der Bearbeitung erfolgt in Abstimmung zwischen den St
 - Usability im Kontext erklärbarer Künstlicher Intelligenz
 - Was ist SHACL und wo lässt es sich sinnvoll einsetzen ?
 - Ein Überblick über Local Closed World Reasoning Ansätze in Wissensgraphen
-- JSON LD im Kontext des Web of Data
+- JSON LD im Kontext des Web of Data: Einsatzmöglichkeiten und Weiterentwicklungspotentiale
 - Web of Data – Eine Aufarbeitung des State-of-the-Art
 - Semantische Wissensgraphen im Unternehmen: Chancen, Potentiale und Einsatzmöglichkeiten
 - Eine Übersicht zu den Nutzungsmöglichkeiten von (Semantischen) Wissensgraphen im maschinellen Lernen 
