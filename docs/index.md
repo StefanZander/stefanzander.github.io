@@ -17,8 +17,8 @@ Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fach
 
 Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. Design Thinking und zeigt, wie diese in gängige Softwareentwicklungsprozesse integriert werden können. Es werden qualitative Methoden des User Research, Prototyping, Modellbildung, Visual und Interaction Design sowie empirische und heuristische Usability-Evaluierungsmothoden behandelt. Diese Methoden werden im Rahmen eines semesterbegleitenden Praxisprojekts erprobt und angewendet.
 
-* Die Übungsaufgaben sind online verfügbar:  
-    <https://projects.fbi.h-da.de/~s.zander/nzse/praktikum/html/>
+* Die Übungsaufgaben sind online verfügbar (_Achtung: noch WIP!_):  
+    <https://zander-hci-praktikum-neu.netlify.app/>
 * Moodle-Kurs zur LVA:  
     <https://lernen.h-da.de/course/view.php?id=6802>
 * Ergänzende Lehrmaterialien zu Android und AndroidStudio:   
