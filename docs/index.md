@@ -30,7 +30,7 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
 
 ### Vorbereitungsseminar Bachelorarbeit
 
-Dieses Modul biete ich erstmals im SoSe 2025 an. Ziel ist es, Studierende unfassend und praxisnah auf eine anstehende Abschlussarbeit vorzubereiten, so dass diese erfolgreich umgesetzt werden kann.
+Dieses Modul biete ich erstmals im SoSe 2025 an. Ziel ist es, Studierende umfassend und praxisnah auf eine anstehende Abschlussarbeit vorzubereiten, so dass diese erfolgreich durchgeführt werden kann.
 
 Konkret lernen Sie in diesem Modul...
 
