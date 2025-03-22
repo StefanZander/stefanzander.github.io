@@ -10,7 +10,7 @@ Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fach
 
 ---
 
-### Nutzer-zentrierte Softwareentwicklung (NZSE) / Human-Computer-Interaction (HCI)
+### Human-Computer-Interaction (HCI)
 
 !!! info "Neuer Name in der SPO 2021"
     Achtung: In der neuen SPO 2021 wurde das Modul Nutzer-zentrierte Softwareentwicklung (NZSE) in Human-Computer-Interaction (HCI) umbenannt. 
@@ -25,6 +25,24 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
     <https://projects.fbi.h-da.de/~s.zander/nzse/vorlesung/android/html/>
 * Außerdem gibt es eine Reihe von Lehrvideos von mir zu ausgewählten Themen auf YouTube:
     <https://www.youtube.com/channel/UCmvuGsp-maCJ_HwAgKxBpbA/>
+
+---
+
+### Vorbereitungsseminar Bachelorarbeit
+
+Dieses Modul biete ich erstmals im SoSe 2025 an. Ziel ist es, Studierende unfassend und praxisnah auf eine anstehende Abschlussarbeit vorzubereiten, so dass diese erfolgreich umgesetzt werden kann.
+
+Konkret lernen Sie in diesem Modul...
+* was eine gute Abschlussarbeit ausmacht
+* wie Sie Ihr Abschlussarbeitsprojekt richtig planen und erfolgreich durchführen
+* welche Elemente eine gute bzw. sehr gute Abschlussarbeit enthalten muss
+* welche Fehler häufig bei Abschlussarbeiten gemacht werden und wie man diese vermeidet
+* warum die Suche nach spannenden, nicht-trivial zu lösenden Problemen viel wichtiger ist als die Suche nach passenden Themen
+* welche Rolle ein gut durchdachtes Research Design spielt
+* warum die Trennung zwischen Konzeption und Umsetzung so wichtig ist
+* wie Sie zentrale Anforderungen identifizieren und deren Umsetzungsgrad methodisch korrekt evaluieren
+* wie Sie sich gut auf eine Abschlussarbeit vorbereiten
+
 
 ---
 
