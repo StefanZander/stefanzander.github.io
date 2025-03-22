@@ -43,6 +43,7 @@ Konkret lernen Sie in diesem Modul...
 * wie Sie zentrale Anforderungen identifizieren und deren Umsetzungsgrad methodisch korrekt evaluieren
 * wie Sie sich gut auf eine Abschlussarbeit vorbereiten
 
+Ausführliche Informationen zum Inhalt des Moduls finden Sie in der [Modulbeschreibung](https://obs.fbi.h-da.de/mhb/modul.php?nr=30.2672&sem=20231).
 
 ---
 
