@@ -12,8 +12,8 @@ Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fach
 
 ### Human-Computer-Interaction (HCI)
 
-!!! info "Neuer Name in der SPO 2021"
-    Achtung: In der neuen SPO 2021 wurde das Modul Nutzer-zentrierte Softwareentwicklung (NZSE) in Human-Computer-Interaction (HCI) umbenannt. 
+!!! info "Hinweis zum SoSe 2025"
+    Im Stundenplan ist wöchentlich ein Doppelblock vorgesehen. Dies ist bewußt gewählt und hilft uns, die theoretischen Inhalte schneller und in konzentrierten Blöcken zu behandeln. Die VO endet damit früher, so dass der Rest des     Semesters für die Bearbeitung des Semesterprojektes genutzt werden kann. Durch den Doppelblock werden nicht mehr Inhalte behandelt als in den anderen parallelen Zügen.  
 
 Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. Design Thinking und zeigt, wie diese in gängige Softwareentwicklungsprozesse integriert werden können. Es werden qualitative Methoden des User Research, Prototyping, Modellbildung, Visual und Interaction Design sowie empirische und heuristische Usability-Evaluierungsmothoden behandelt. Diese Methoden werden im Rahmen eines semesterbegleitenden Praxisprojekts erprobt und angewendet.
 
@@ -92,8 +92,15 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 In regelmäßigen Abständen biete ich dieses Modul in Kooperation mit Unternehmen aus der Wirtschaft und Industrie an. 
 
+Die aktuelle Themestellung im SoSe 2025 umfasst die Erforschung und Erprobung von Methoden und Technologien (NLP, NER, Wissensgraphen etc) zur Extraktion und Nutzbarmachung der vielen wertvollen Informationen, die in den Fachbereichsratsprotokollen enthalten sind. 
+
+Im aktuellen PSE geht es um die Erforschung und Erprobung verschiedener Methoden und Technologien aus dem Bereich Natural Language Processing, Named Entity Recognition, Ontology-basierte Wissensgraphen, KI etc. mit dem Ziel, die vielen wertvollen in den Fachbereichsratsprotokollen enthaltenen Informationen zu extrahieren, zu vernetzen und den Hochschulangehörigen (Studierende, Mitarbeitende, ProfessorInnen etc) auf geeignete Art und Weise zur Verfügung zu stellen. Interessierte Personen sollen einfach und unkompliziert auf die enthaltenen Informationen zugreifen und sich ein umfassendes, informiertes Bild über besprochene Themen, Beschlüsse etc machen können.
+
+Ein Großteil des Projektes besteht in der Erforschung und Operationalisierung eines größenteils unbekannten Problemraums sowie in der Auseinandersetzung mit der Fragestellung, welche Methoden und Technologien (sowie Kombinationen selbiger) zufriedenstellende Ergebnisse liefert. 
+<!--
 Die aktuelle Themenstellung umfasst die Weiterentwicklung einer mobilen Flutter-App (we3ve) samt Node.js-Backend (Express).
 Die App entstand in Kooperation mit der [Klinikon GmbH](https://www.klinikon.com/) und soll der breiten Masse den Zugang und die Nutzung von E-Mobilitätsangeboten ermöglichen und so die Verkehrswende weiter vorantreiben und unterstützen.
+-->
 
 Nähere Informationen erfahren Sie gerne per [Email](https://fbi.h-da.de/~s.zander) oder im Rahmen meiner Sprechstunde (immer Montags, 17:00 - 19:00 Uhr in meinem BBB-Büro).
 
