@@ -21,8 +21,6 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
     <https://zander-hci-praktikum-neu.netlify.app/>
 * Moodle-Kurs zur LVA:  
     <https://lernen.h-da.de/course/view.php?id=6802>
-* Ergänzende Lehrmaterialien zu Android und AndroidStudio:   
-    <https://projects.fbi.h-da.de/~s.zander/nzse/vorlesung/android/html/>
 * Außerdem gibt es eine Reihe von Lehrvideos von mir zu ausgewählten Themen auf YouTube:
     <https://www.youtube.com/channel/UCmvuGsp-maCJ_HwAgKxBpbA/>
 
