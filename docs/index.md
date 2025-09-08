@@ -143,10 +143,10 @@ Nähere Informationen zu den geplanten Teilprojekten finden sich in der  [Projek
 
 
 * Informationen zur Durchführung der Bachelorarbeit sowie des Kolloquiums finden sich hier:  
-    <https://projects.fbi.h-da.de/~s.zander/wai/html/bachelorarbeit/q_and_a/>
+    <https://zander-praxismodul.netlify.app/ba_faq/>
 
 * Nachstehender Link beinhaltet einige Tipps zur erfolgreichen Verfassung einer Abschlussarbeit:  
-    <https://projects.fbi.h-da.de/~s.zander/wai/html/lernen_lernen/>  
+    <https://zander-praxismodul.netlify.app/ba_tipps/>  
     _Hinweis: Der Inhalt wird fortlaufend ergänzt_
 
 
