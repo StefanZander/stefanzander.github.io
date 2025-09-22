@@ -13,7 +13,7 @@ Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fach
 ### Human-Computer-Interaction (HCI)
 
 !!! info "Hinweis zum SoSe 2025"
-    Im Stundenplan ist wöchentlich ein Doppelblock vorgesehen. Dies ist bewußt gewählt und hilft uns, die theoretischen Inhalte schneller und in konzentrierten Blöcken zu behandeln. Die VO endet damit früher, so dass der Rest des     Semesters für die Bearbeitung des Semesterprojektes genutzt werden kann. Durch den Doppelblock werden nicht mehr Inhalte behandelt als in den anderen parallelen Zügen.  
+    Im Stundenplan ist wöchentlich ein Doppelblock vorgesehen. Dies ist bewußt gewählt und hilft uns, die theoretischen Inhalte schneller und in konzentrierten Blöcken zu behandeln. Die VO endet damit früher, so dass der Rest des Semesters für die Bearbeitung des Semesterprojektes genutzt werden kann. Durch den Doppelblock werden nicht mehr Inhalte behandelt als in den anderen parallelen Zügen.  
 
 Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. Design Thinking und zeigt, wie diese in gängige Softwareentwicklungsprozesse integriert werden können. Es werden qualitative Methoden des User Research, Prototyping, Modellbildung, Visual und Interaction Design sowie empirische und heuristische Usability-Evaluierungsmothoden behandelt. Diese Methoden werden im Rahmen eines semesterbegleitenden Praxisprojekts erprobt und angewendet.
 
@@ -28,7 +28,7 @@ Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. De
 
 ### Vorbereitungsseminar Bachelorarbeit
 
-Dieses Modul biete ich erstmals im SoSe 2025 an. Ziel ist es, Studierende umfassend und praxisnah auf eine anstehende Abschlussarbeit vorzubereiten, so dass diese erfolgreich durchgeführt werden kann.
+Dieses Modul biete ich erstmals im SoSe 2025 an. Ziel ist es, Studierende umfassend und praxisnah auf eine anstehende :material-book-education: Abschlussarbeit vorzubereiten, so dass diese erfolgreich durchgeführt werden kann.
 
 Konkret lernen Sie in diesem Modul...
 
@@ -90,17 +90,23 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 In regelmäßigen Abständen biete ich dieses Modul in Kooperation mit Unternehmen aus der Wirtschaft und Industrie an. 
 
+Die aktuelle Themestellung im WiSe 2025/2026 umfasst die __Entwicklung eines Plugins zur Ausführung von Markdown-basierten Quizzes für das Dokumentationstool [MkDocs](https://www.mkdocs.org/)__. Ein Beispiel, wie so etwas aussehen kann ist [Hugo Quiz](https://bonartm.github.io/hugo-quiz/).
+
+Die konkrete Aufgabenstellung mit weiteren Informationen findet sich auf der [PSE-Projektseite](./pse.md).
+
+<!-- 
 Die aktuelle Themestellung im SoSe 2025 umfasst die Erforschung und Erprobung von Methoden und Technologien (NLP, NER, Wissensgraphen etc) zur Extraktion und Nutzbarmachung der vielen wertvollen Informationen, die in den Fachbereichsratsprotokollen enthalten sind. 
 
 Im aktuellen PSE geht es um die Erforschung und Erprobung verschiedener Methoden und Technologien aus dem Bereich Natural Language Processing, Named Entity Recognition, Ontology-basierte Wissensgraphen, KI etc. mit dem Ziel, die vielen wertvollen in den Fachbereichsratsprotokollen enthaltenen Informationen zu extrahieren, zu vernetzen und den Hochschulangehörigen (Studierende, Mitarbeitende, ProfessorInnen etc) auf geeignete Art und Weise zur Verfügung zu stellen. Interessierte Personen sollen einfach und unkompliziert auf die enthaltenen Informationen zugreifen und sich ein umfassendes, informiertes Bild über besprochene Themen, Beschlüsse etc machen können.
 
 Ein Großteil des Projektes besteht in der Erforschung und Operationalisierung eines größenteils unbekannten Problemraums sowie in der Auseinandersetzung mit der Fragestellung, welche Methoden und Technologien (sowie Kombinationen selbiger) zufriedenstellende Ergebnisse liefert. 
+-->
 <!--
 Die aktuelle Themenstellung umfasst die Weiterentwicklung einer mobilen Flutter-App (we3ve) samt Node.js-Backend (Express).
 Die App entstand in Kooperation mit der [Klinikon GmbH](https://www.klinikon.com/) und soll der breiten Masse den Zugang und die Nutzung von E-Mobilitätsangeboten ermöglichen und so die Verkehrswende weiter vorantreiben und unterstützen.
 -->
 
-Nähere Informationen erfahren Sie gerne per [Email](https://fbi.h-da.de/~s.zander) oder im Rahmen meiner Sprechstunde (immer Montags, 17:00 - 19:00 Uhr in meinem BBB-Büro).
+Nähere Informationen erfahren Sie gerne per [Email](https://fbi.h-da.de/~s.zander) oder im Rahmen meiner Sprechstunde (immer Montags, 17:30 - 19:30 Uhr in meinem BBB-Büro).
 
 
 <!-- Im WiSe 2021/2022 finden die o.g. LVAs in Kooperation mit dem Unternehmen [BCC Group International GmbH](https://bccgi.eu/) statt. Inhaltlich geht es um die _Visualisierung von Echtzeitdatenströmen mittels moderner Web- und Virtualisierungstechnologien_ (u.a. Web Assembly und Kubernetes). Das Vorhaben lässt sich in mehrere Teilprojekte (u.a. Technologie-Rechereche, GUI-Entwurf, Prototyping etc.) aufsplitten und beinhaltet mehrere Meilensteine.
