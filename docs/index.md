@@ -12,13 +12,16 @@ Die folgenden Lehrveranstaltungen halte ich in regelmäßigen Abständen am Fach
 
 ### Human-Computer-Interaction (HCI)
 
-!!! info "Hinweis zum SoSe 2025"
+!!! info "Hinweis zum WiSe 2025/2026"
     Im Stundenplan ist wöchentlich ein Doppelblock vorgesehen. Dies ist bewußt gewählt und hilft uns, die theoretischen Inhalte schneller und in konzentrierten Blöcken zu behandeln. Die VO endet damit früher, so dass der Rest des Semesters für die Bearbeitung des Semesterprojektes genutzt werden kann. Durch den Doppelblock werden nicht mehr Inhalte behandelt als in den anderen parallelen Zügen.  
+
+!!! info "Neue Veranstaltungsorganisation ab dem WiSe 2025/2026"
+    Ab dem WiSe 2025/2026 folgt die Veranstaltung dem Modell des [Active Learning](https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Active-Learning.pdf) mit Studienprogramm-spezifischen Anpassungen (Durchführung eines Gruppen-spezifischen Semesterprojekts, Semester-begleitende Teilleistungsfeststellung/-bewertung, etc.) und einer stärken Fokussierung auf Gruppen-basiertem Lernen und Arbeiten.
 
 Dieses Modul befasst sich mit den Grundsätzen des Human-centered Design bzw. Design Thinking und zeigt, wie diese in gängige Softwareentwicklungsprozesse integriert werden können. Es werden qualitative Methoden des User Research, Prototyping, Modellbildung, Visual und Interaction Design sowie empirische und heuristische Usability-Evaluierungsmothoden behandelt. Diese Methoden werden im Rahmen eines semesterbegleitenden Praxisprojekts erprobt und angewendet.
 
-* Die Übungsaufgaben sind online verfügbar (_Achtung: noch WIP!_):  
-    <https://zander-hci-praktikum-neu.netlify.app/>
+* Die neuen Lehrveranstaltungsunterlagen sind online verfügbar:  
+    <https://zander-hci.netlify.app/>
 * Moodle-Kurs zur LVA:  
     <https://lernen.h-da.de/course/view.php?id=6802>
 * Außerdem gibt es eine Reihe von Lehrvideos von mir zu ausgewählten Themen auf YouTube:
