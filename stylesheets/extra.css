@@ -1,0 +1,36 @@
+.md-typeset h1 {
+  font-size: 3.0rem;
+}
+
+.md-typeset h2 {
+  font-size: 1.6rem;
+}
+
+.md-typeset h3 {
+  background-color: teal;
+  color: white;
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+
+
+
+
+/* 
+.md-typeset h1 {
+  font-size: 3rem;
+}
+
+.md-typeset h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  background-color: teal;
+  color: white;
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+} */
