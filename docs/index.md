@@ -93,6 +93,8 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 In regelmäßigen Abständen biete ich dieses Modul in Kooperation mit Unternehmen aus der Wirtschaft und Industrie an. 
 
+Die kommende Themestellung im SoSe 2026 umfasst die [Erforschung und Entwicklung eines KI-gestützten Feedbacktools für Studierende zur HCI-Projektmappe](./pse_26SS.md).
+
 Die aktuelle Themestellung im WiSe 2025/2026 umfasst die __Entwicklung eines Plugins zur Ausführung von Markdown-basierten Quizzes für das Dokumentationstool [MkDocs](https://www.mkdocs.org/)__. Ein Beispiel, wie so etwas aussehen kann ist [Hugo Quiz](https://bonartm.github.io/hugo-quiz/).
 
 Die konkrete Aufgabenstellung mit weiteren Informationen findet sich auf der [PSE-Projektseite](./pse.md).
