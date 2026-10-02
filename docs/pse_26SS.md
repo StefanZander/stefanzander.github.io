@@ -2,7 +2,7 @@
 
 
 ### Titel
-KI-gestütztes Feedback-Tool für Studierende zur HCI-Projektmappe – Weiterführung der Arbeiten
+KI-gestütztes Feedback-Tool für Studierende zur HCI-Projektmappe – Weiterführung der Arbeiten aus dem SoSe 2026
 
 ### Idee
 Es soll ein Online-Service entwickelt werden, durch welchen Studierende noch vor Abgabe an den Meilensteinterminen Feedback zum aktuellen Stand ihrer HCI-Semesterprojektmappe erhalten können.
