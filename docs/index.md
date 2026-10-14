@@ -93,11 +93,13 @@ Dieses Bachelor-Wahlpflichtfach biete ich ab dem SoSe 2020 an.
 
 In regelmäßigen Abständen biete ich dieses Modul in Kooperation mit Unternehmen aus der Wirtschaft und Industrie an. 
 
-Die kommende Themestellung im SoSe 2026 umfasst die [Erforschung und Entwicklung eines KI-gestützten Feedbacktools für Studierende zur HCI-Projektmappe](./pse_26SS.md).
+Die aktuelle Themestellung im WiSe 2026/2027 umfasst die Fortsetzung des Themas aus dem SoSe 2026:  [Erforschung und Entwicklung eines KI-gestützten Feedbacktools für Studierende zur HCI-Projektmappe](pse/pse_26WS.md).
 
-Die aktuelle Themestellung im WiSe 2025/2026 umfasst die __Entwicklung eines Plugins zur Ausführung von Markdown-basierten Quizzes für das Dokumentationstool [MkDocs](https://www.mkdocs.org/)__. Ein Beispiel, wie so etwas aussehen kann ist [Hugo Quiz](https://bonartm.github.io/hugo-quiz/).
+<!--
+Die Themestellung im WiSe 2025/2026 umfasst die __Entwicklung eines Plugins zur Ausführung von Markdown-basierten Quizzes für das Dokumentationstool [MkDocs](https://www.mkdocs.org/)__. Ein Beispiel, wie so etwas aussehen kann ist [Hugo Quiz](https://bonartm.github.io/hugo-quiz/).
 
 Die konkrete Aufgabenstellung mit weiteren Informationen findet sich auf der [PSE-Projektseite](./pse.md).
+-->
 
 <!-- 
 Die aktuelle Themestellung im SoSe 2025 umfasst die Erforschung und Erprobung von Methoden und Technologien (NLP, NER, Wissensgraphen etc) zur Extraktion und Nutzbarmachung der vielen wertvollen Informationen, die in den Fachbereichsratsprotokollen enthalten sind. 
@@ -111,7 +113,7 @@ Die aktuelle Themenstellung umfasst die Weiterentwicklung einer mobilen Flutter-
 Die App entstand in Kooperation mit der [Klinikon GmbH](https://www.klinikon.com/) und soll der breiten Masse den Zugang und die Nutzung von E-Mobilitätsangeboten ermöglichen und so die Verkehrswende weiter vorantreiben und unterstützen.
 -->
 
-Nähere Informationen erfahren Sie gerne per [Email](https://fbi.h-da.de/~s.zander) oder im Rahmen meiner Sprechstunde (immer Montags, 17:30 - 19:30 Uhr in meinem BBB-Büro).
+Nähere Informationen erfahren Sie gerne per [Email](https://fbi.h-da.de/~s.zander) oder im Rahmen meiner Sprechstunde (immer Montags, 18:00 - 19:30 Uhr in meinem BBB-Büro).
 
 
 <!-- Im WiSe 2021/2022 finden die o.g. LVAs in Kooperation mit dem Unternehmen [BCC Group International GmbH](https://bccgi.eu/) statt. Inhaltlich geht es um die _Visualisierung von Echtzeitdatenströmen mittels moderner Web- und Virtualisierungstechnologien_ (u.a. Web Assembly und Kubernetes). Das Vorhaben lässt sich in mehrere Teilprojekte (u.a. Technologie-Rechereche, GUI-Entwurf, Prototyping etc.) aufsplitten und beinhaltet mehrere Meilensteine.
