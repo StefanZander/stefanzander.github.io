@@ -1,0 +1,41 @@
+/* @font-face {
+    font-family: "Open Sans Condensed";
+    src: url('https://projects.fbi.h-da.de/~s.zander/fonts/OpenSansCondensed-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url("https://projects.fbi.h-da.de/~s.zander/fonts/RobotoCondensed-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url('https://projects.fbi.h-da.de/~s.zander/fonts/RobotoCondensed-Bold.ttf');
+    font-weight: bold;
+} */
+
+:root, body {
+    /* -webkit-font-smoothing: auto !important; */
+    /* font-family: "Roboto Condensed"; */
+}
+
+/* CSS Selector needs to by specified more concretely */
+.md-typeset h1 {
+    font-size: 3rem;
+}
+
+.md-typeset h2 {
+    font-size: 1.6rem;
+    /* font-weight: 500; */
+}
+
+h3 {
+    background-color: teal;
+    color: white;
+    padding-left: 0.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    /* font-size: 1.2rem !important; */
+}
+
+
