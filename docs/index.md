@@ -47,6 +47,8 @@ Konkret lernen Sie in diesem Modul...
 
 Ausführliche Informationen zum Inhalt des Moduls finden Sie in der [Modulbeschreibung](https://obs.fbi.h-da.de/mhb/modul.php?nr=30.2672&sem=20231).
 
+[Link zum Etherpad zur Erwartungshaltung der Veranstaltung]( https://etherpad.h-da.de/p/l9QfT9M_3Q3nbtnTp3jb)
+
 ---
 
 ### Entwicklung Web-basierter Anwendungen (EWA)
